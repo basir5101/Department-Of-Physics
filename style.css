@@ -1,0 +1,11 @@
+.batch img{
+    height: 250px;
+    overflow: hidden;
+}
+.student-count{
+    border-left: 5px solid orange;
+    padding-left: 5px;
+}
+.highlight{
+    color: #036803;
+}
